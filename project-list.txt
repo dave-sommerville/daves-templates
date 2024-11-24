@@ -1,36 +1,54 @@
-- BlackJack 80% (to presentable)
+- Unreal City
+	- Some css styling/responsiveness 
+	- Experimental page prepared and added 
 
-- Unreal City (?% hard to say because of artistic direction)
+- Me, Myself, and I Media
+	- Guts are mostly working, but not pretty 
+	- Major css on navbar 
+	- JS/css animation for navbar 
+	- Graphics needed
+	- Color Pallete needed
+	- Bigger things to possibly add
 
-- Me, Myself, and I Media 80%
-
-- Script Scavengers 90% (not counting responsiveness)
+- Script Scavengers
+	- Code organization
 	- Scoreboard 
-	- Make a follow up game
+	- Local Storage 
+	- Responsive Design
+	- Finishing touches 
+
+- BlackJack 
+	- Responsive Design
+	- Bank functions 
+	- All action UI
+	- All result logic 
 
 - Glitch (play area)
 	- Mastermind **
 	- Number Guesser
 	- Try to click me **
+
+- Games 
+	- Memory Game **
+	- Cactus Jump**
 	- Toys 
 		- Magic 8 ball**
 		- Fameboy Console**
 
-- Main Games 
-	- Script Scavengers
-	- Blackjack
-	- Memory Game **
-	- Cactus Jump**
-
 - Repo Toolbox 
-	- Parallax
 	- Sidebar
 	- Control box
+	- README
 
 - Personal site 
+	- Rewrite 
+	- SVG animations
+	- Stacking portfolio
+
 
 - Other **
 	- Grocery List / Menu
 	- Steph's website 
+	- Time calculator 
 
-- Don't forget my other potential artistic outlets 
+- I also have one drawing and one poem in me 
