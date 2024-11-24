@@ -8,21 +8,29 @@
 	- Scoreboard 
 	- Make a follow up game
 
-- Game Room
-	- Glitch the Ghost? 
-	- Number Guesser?
+- Glitch (play area)
+	- Mastermind **
+	- Number Guesser
+	- Try to click me **
+	- Toys 
+		- Magic 8 ball**
+		- Fameboy Console**
+
+- Main Games 
 	- Script Scavengers
 	- Blackjack
-	- Memory Game
+	- Memory Game **
 	- Cactus Jump**
-	- Play (main page?)
-		- Mastermind**
-		- Fameboy Console**
-		- Magic 8 ball**
-		- Cartoons**
 
 - Repo Toolbox 
-- Grocery List / Menu
-- Steph's website 
+	- Parallax
+	- Modal
+	- Control box
+
+- Personal site 
+
+- Other **
+	- Grocery List / Menu
+	- Steph's website 
 
 - Don't forget my other potential artistic outlets 
