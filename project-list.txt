@@ -24,7 +24,7 @@
 
 - Repo Toolbox 
 	- Parallax
-	- Modal
+	- Sidebar
 	- Control box
 
 - Personal site 

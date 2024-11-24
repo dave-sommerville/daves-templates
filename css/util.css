@@ -1,5 +1,19 @@
 @charset "utf-8";
 
+:root {
+	--app-bg-color: #001;
+	--app-text-color: #fefefe;
+	--app-btn-color: #fbcc8d;
+	--app-padding: 25px;
+	--app-border-rad: 8px;
+	--app-gradient: linear-gradient(
+		135deg, 
+		rgb(255 255 255 / 0.2) 0%,
+		rgb(255 255 255 / 0.6) 50%,
+		rgb(255 255 255 / 0.2) 100%
+	);
+}
+
 /*------------------------------->
         Essential
 <--------------------------------*/
