@@ -1,0 +1,91 @@
+Git conflicts
+	A merge conflict in Git occurs when there are conflicting changes between
+	different branches that Git cannot automatically resolve. This conflict arises
+	when the changes made to the same part of a file in different branches cannot
+	be seamlessly merged together. When attempting to merge these branches, Git
+	halts the process and prompts the user to manually resolve the conflicting
+	changes by editing the affected files. During this resolution process, the user
+	must decide which changes to keep, discard, or modify, and then mark the
+	conflict as resolved. Once all conflicts are resolved, the user can continue
+	the merge process by committing the changes, finalizing the merge, and updating
+	the repository with the resolved code. Resolving merge conflicts effectively is
+	crucial to maintaining a clean and functional codebase when collaborating on
+	projects with multiple contributors
+
+ 
+ Basic Merge Conflict (local repo)
+
+	Auto-merging<file>
+	CONFLICT (content): Merge conflict in <file>
+	Automatic merge failed; fix conflicts and then commit the result 
+
+   01. Initialize a new Git repository
+  02. Run 'git status' to confirm your new repository
+  03. On 'main', create a file and add content to it
+  04. Add your file to the stage area and commit your changes
+  05. Create and open a new branch (new-feature)
+  06. Change the content of the file, add and commit your changes
+  07. Go to 'main', change the file again and commit your changes
+  08. Go back to 'new-feature' and change your file again
+  09. Go to 'main' and merge 'new-feature'
+  10. Fix the conflicts
+  11. Add the file to the stage area and commit your changes
+  12. Delete 'new-feature'
+
+Merge conflict on GitHub
+	New message from annoying-lead-dev: 'Dude, you have conflicts. Fix them!"
+	Creating a merge conflict on GitHub
+  01. Create a file (on main branch) and add content to it
+  02. Create and open a new branch (new-feature)
+  03. Change the content of the file and commit your changes
+  04. On GitHub, change the file in the 'main' branch
+  05. Go to 'main' (locally) and pull the recent updates
+  06. Go to 'new-feature' work more and push changes to GitHub
+  07. On GitHub, do a pull request for 'new-feature'
+  08. On terminal, go to 'new-feature' and merge 'main'
+  08. Fix the conflicts, stage and commit your changes
+  09. Go to GitHub and do a 'pull request' again
+  10. On 'main' branch, pull the recent updates
+	11. Delete 'new-feature'
+ 
+	
+
+	 npm init -y
+
+	 
+Working with modules 
+
+	As your program grows bigger, it may contain many lines of code. 
+	Instead of putting everything in a single file, you should use
+	modules to separate codes into discrete files as per their
+	functionality. This makes our code organized and easier to maintain
+
+	- Create your js files (export and import variables and functions)
+	- Add the 'type="module"' attribute to your script tag (defer by default)
+	- In your app's root folder, run 'npm init -y' (> package.json file)
+	- Add (and push to GitHub) a .gitignore file 
+	- Install your dependencies (the basic ones and the dev ones)
+		> npm i <dependency-name> || npm i -D <dependency-name>
+	- Use your dependencies
+		> npm run start (to start lite-server);
+			- npm i lite-server -D
+
+	- From now on, use modules and place your secondary code in their own
+	files 
+
+You can use '* as <blank>' to import all functions as an object
+You can import one or more components if you want to
+
+
+** DON'T PUSH THE DAMN NODE_MODULES !!!! **
+
+[alias] (writing shortcuts) 
+		st = status
+		cm = commit -m
+		pu = push -u
+		lo = log --oneline
+
+		lp = (log in a pretty format)
+		lp = log --pretty=format:'%Cred%h%Creset%C(bold brightblue)%d%Creset %s %C(brightyellow)%an%Creset %C(brightgreen)(%cr)' --abbrev-commit
+
+	

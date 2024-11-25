@@ -1,17 +1,14 @@
 - Unreal City
-	- Some css styling/responsiveness 
+	- Some css styling/responsiveness on all pages 
 	- Experimental page prepared and added 
 
 - Me, Myself, and I Media
 	- Guts are mostly working, but not pretty 
 	- Major css on navbar 
 	- JS/css animation for navbar 
-	- Graphics needed
-	- Color Pallete needed
 	- Bigger things to possibly add
 
 - Script Scavengers
-	- Code organization
 	- Scoreboard 
 	- Local Storage 
 	- Responsive Design
@@ -37,8 +34,7 @@
 
 - Repo Toolbox 
 	- Sidebar
-	- Control box
-	- README
+
 
 - Personal site 
 	- Rewrite 

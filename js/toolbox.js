@@ -7,6 +7,10 @@ function select(selector, scope = document) {
   return scope.querySelector(selector);
 }
 
+function selectAll(selector, scope = document) {
+  return scope.querySelectorAll(selector);
+}
+
 function listen(event, element, callback) {
   return element.addEventListener(event, callback);
 }

@@ -11,6 +11,10 @@ function select(selector, scope = document) {
   return scope.querySelector(selector);
 }
 
+function selectAll(selector, scope = document) {
+  return scope.querySelectorAll(selector);
+}
+
 function listen(event, element, callback) {
   return element.addEventListener(event, callback);
 }
@@ -28,7 +32,7 @@ const targetShape = select('.target-shape');
 const toggle = select("#toggle");
 const slider = select(".slider");
 const sliderValue = select(".slider-value");
-const radioButtons = document.querySelectorAll('input[name="option"]');
+const radioButtons = selectAll('input[name="option"]');
 
 /*--------------------------------------------------->
 EVENT OBSERVER - TOGGLE CONTROL
