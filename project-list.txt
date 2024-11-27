@@ -1,13 +1,3 @@
-- Unreal City
-	- Some css styling/responsiveness on all pages 
-	- Experimental page prepared and added 
-
-- Me, Myself, and I Media
-	- Guts are mostly working, but not pretty 
-	- Major css on navbar 
-	- JS/css animation for navbar 
-	- Bigger things to possibly add
-
 - Script Scavengers
 	- Scoreboard 
 	- Local Storage 
@@ -20,10 +10,11 @@
 	- All action UI
 	- All result logic 
 
-- Glitch (play area)
-	- Mastermind **
-	- Number Guesser
-	- Try to click me **
+- Personal site 
+	- Rewrite 
+	- SVG animations
+	- Stacking portfolio
+
 
 - Games 
 	- Memory Game **
@@ -31,15 +22,11 @@
 	- Toys 
 		- Magic 8 ball**
 		- Fameboy Console**
+	- Glitch (play area)
+		- Mastermind **
+		- Number Guesser
+		- Try to click me **
 
-- Repo Toolbox 
-	- Sidebar
-
-
-- Personal site 
-	- Rewrite 
-	- SVG animations
-	- Stacking portfolio
 
 
 - Other **
