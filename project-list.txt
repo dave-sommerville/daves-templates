@@ -1,37 +1,30 @@
+Final Drafts 
 - Script Scavengers
-	- Scoreboard 
-	- Local Storage 
-	- Responsive Design
-	- Finishing touches 
-
 - BlackJack 
-	- Responsive Design
-	- Bank functions 
-	- All action UI
-	- All result logic 
-
 - Personal site 
-	- Rewrite 
-	- SVG animations
-	- Stacking portfolio
+- Unreal City 
+
+New Repos 
+- Monster Memory
+- Glitch's Lab
+- Inventory - List generator 
+- Cactus Club Co. 
 
 
+
+Concepts 
 - Games 
-	- Memory Game **
-	- Cactus Jump**
+	- Memory Game 
+	- Cactus Jump
 	- Toys 
-		- Magic 8 ball**
-		- Fameboy Console**
-	- Glitch (play area)
-		- Mastermind **
+		- Magic 8 ball
+		- Fameboy Console
+	- Glitch the Ghost
+		- Mastermind 
 		- Number Guesser
-		- Try to click me **
-
-
-
-- Other **
+		- Try to click me
+- Other
 	- Grocery List / Menu
 	- Steph's website 
 	- Time calculator 
 
-- I also have one drawing and one poem in me 
