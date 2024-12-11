@@ -1,5 +1,4 @@
 Final Drafts 
-- Script Scavengers
 - BlackJack 
 - Personal site 
 - Unreal City 
@@ -10,13 +9,18 @@ New Games
 - Number guesser 
 - Monster Memory
 - Magic 8 ball 
+- Hangman
 - Camera 
 
 Upcoming Projects 
+- Cactus Productions 
 - Inventory - List generator 
-- Cactus Club Co. 
+
+
+Bigger Programs 
 - Cactus Jump 
 - Time calculator
+- API project
 
 Promotion
 - Have to figure out my school accounts 
@@ -29,9 +33,7 @@ Promotion
   - That's what Unreal is for, right? 
   - So what are you doing with it 
 
-Domains 
-- Personal website 
-- Unreal? 
-
-Incorporating a business aspect (write offs)
-Gotta prep for the school taxes first dummy
+Finish before posting 
+- Personal Website
+- Social Media site
+- Script Scavengers
