@@ -1,39 +1,55 @@
 Final Drafts 
 - BlackJack 
-- Personal site 
+  - UI 
+  - Responsiveness
+  - README 
+- Social Media
+  - README
+- Script Scavengers
+  - Andre's Suggestions 
+  - Little guy in background 
+  - README
+
+Partially Complete 
+- Template 
+  - Look through utility classes / functions 
+  - Collect my favourite online ressources 
+    - README.So
+    - Hero Patterns 
+    - FreeIcon
+
+- Personal site (DS-Code)
 - Unreal City 
+  - New name/basics 
+  - Build skeleton before content 
+  - Hero Banner design 
+    - Parallax
+  - Grid main 
+    - Designed for templates 
+    - Utility classes for sixe adjustment 
+  - Scroll snap containers 
+  - Hosting images elsewhere somehow 
+  - Colour changing background? 
 
-New Games 
-- Mastermind 
-- Try to click me 
-- Number guesser 
-- Monster Memory
-- Magic 8 ball 
-- Hangman
-- Camera 
 
-Upcoming Projects 
-- Cactus Productions 
-- Inventory - List generator 
 
+Inspo/Material  
+- Onyx and Opal 
+- HiveMind
+- Cactus Theatre Co 
+
+New Projects 
+- Code Breaker 
+- Hangman 
+- Glitch
+  - Number Guesser 
+  - Try to click me 
+  - Small memory game 
+  - B Day facts 
 
 Bigger Programs 
 - Cactus Jump 
 - Time calculator
-- API project
+- Inventory 
 
-Promotion
-- Have to figure out my school accounts 
-- Incorporating LinkedIn
-  - Overall Github 
-  - Examples of my previous experience in a functional light 
-  - The projects on my portfolio (most of my repos)
-  - Any other accomplishments I make along the way 
-- As an artist? 
-  - That's what Unreal is for, right? 
-  - So what are you doing with it 
 
-Finish before posting 
-- Personal Website
-- Social Media site
-- Script Scavengers

@@ -8,16 +8,7 @@
 
 ![JavaScript](https://img.shields.io/badge/CODE-JAVASCRIPT-%2391D5E8?style=for-the-badge&logo=javascript&logoColor=white&labelColor=grey)
 
-## Features
-- Index HTML (Eventually a landing page to access other materials)
-- Font Collection
-- Chosen CSS reset 
-- Most used CSS utility classes (CSS)
-- Curreny created utility functions (JS)
-- Modals Package
-- Floating Header (slides out upon scroll)
-- Parallax CSS Scroll() example (not fully supported)
-- Tutorial: Control styles
+
 ### Say Hi
 If you have an comments or suggestions, please don't hesitate to reach out :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=&labelColor=grey)](https://linkedin.com/in/dave-sommerville-2abb50326)
