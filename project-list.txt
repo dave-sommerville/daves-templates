@@ -1,35 +1,40 @@
-Final Drafts 
-- BlackJack 
-  - UI 
-  - Responsiveness
-  - README 
-- Social Media
-  - README
-- Script Scavengers
-  - Andre's Suggestions 
-  - Little guy in background 
-  - README
 
-Partially Complete 
-- Template 
-  - Look through utility classes / functions 
-  - Collect my favourite online ressources 
-    - README.So
-    - Hero Patterns 
-    - FreeIcon
+BlackJack 
+- UI 
+- Animations 
+- Responsiveness
+- README 
 
-- Personal site (DS-Code)
-- Unreal City 
-  - New name/basics 
-  - Build skeleton before content 
-  - Hero Banner design 
-    - Parallax
-  - Grid main 
-    - Designed for templates 
-    - Utility classes for sixe adjustment 
-  - Scroll snap containers 
-  - Hosting images elsewhere somehow 
-  - Colour changing background? 
+Script Scavengers
+- Little dude
+- README
+
+Code Breaker
+- Functions 
+  - Check and populate tokens 
+  - Add to master array 
+ 
+DS-Code 
+- Better Hero Banner 
+- Flatter background 
+- Cooler and up-to-date portfolio
+
+DS-Creations 
+- Skeleton refined 
+- Y Scroll containers 
+
+-Glitch
+- Number Guesser 
+- Try to click me 
+- Small memory game 
+- B Day facts 
+
+Template 
+- Look through utility classes / functions 
+- Collect my favourite online ressources 
+  - README.So
+  - Hero Patterns 
+  - FreeIcon
 
 
 
@@ -39,13 +44,7 @@ Inspo/Material
 - Cactus Theatre Co 
 
 New Projects 
-- Code Breaker 
 - Hangman 
-- Glitch
-  - Number Guesser 
-  - Try to click me 
-  - Small memory game 
-  - B Day facts 
 
 Bigger Programs 
 - Cactus Jump 
