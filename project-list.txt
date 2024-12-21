@@ -1,54 +1,49 @@
+Portfolio
+- Reword things a little bit 
+- Take better profile picture and update 
+- Hamburger nav menu
+- Possibly different hover on nav
+- Some type of effect applied to skills list
+- Possibly animate page elements 
+- Hex filter applied 
+- Contact area 
+- Preview modals 
 
-BlackJack 
-- UI 
-- Animations 
-- Responsiveness
-- README 
+- BlackJack
+  - 21 payout 
+  - Info buttons 
+  - README
+  - localStorage bank
+  -  Additional rules
+    - Split
+    - Dealer's 21s
+    - Insurance
 
-Script Scavengers
-- Little dude
-- README
+- Code Breaker 
+  - Extract that one listen function
+  - Return display to zero
+  - Add timer 
+  - Add local storage for top score 
 
-Code Breaker
-- Functions 
-  - Check and populate tokens 
-  - Add to master array 
- 
-DS-Code 
-- Better Hero Banner 
-- Flatter background 
-- Cooler and up-to-date portfolio
+- HiveMind
+  - Dark mode enabled (either by system or by choice)
+  - Think of location for password  
+  - Add responsiveness 
+  - Add 2-3 more content fillers 
 
-DS-Creations 
-- Skeleton refined 
-- Y Scroll containers 
 
--Glitch
+
+
+Glitch
 - Number Guesser 
 - Try to click me 
 - Small memory game 
 - B Day facts 
-
-Template 
-- Look through utility classes / functions 
-- Collect my favourite online ressources 
-  - README.So
-  - Hero Patterns 
-  - FreeIcon
-
-
-
-Inspo/Material  
-- Onyx and Opal 
-- HiveMind
-- Cactus Theatre Co 
-
-New Projects 
-- Hangman 
+Hangman
+Make Up ecommerce 
+Cactus Theatre Co 
 
 Bigger Programs 
 - Cactus Jump 
 - Time calculator
 - Inventory 
-
-
