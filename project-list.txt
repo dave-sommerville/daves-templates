@@ -1,42 +1,56 @@
 - Portfolio
-  - Website Preview modal
-  - Take better profile picture and update 
-  - Folding style portfolio (after adding more)
-  - Open code section 
+
 
 - BlackJack
-  - 21 payout 
+  - Remove scroll 
   - localStorage bank
+  - Branded footer 
   - Split
   - Dealer's 21s
   - Insurance
 
 - Code Breaker 
-  - Return display to zero
-  - Add timer 
-  - Add local storage for top score 
+  - Create and format scoreboard 
+  - Add background music and sound effects 
+  - Branded footer 
+
 
 - Script Scavengers 
-  - Little dude crap talking 
-  
+  - Joe's taunts  
+  - Branded footer 
+
+
 - HiveMind
   - Dark mode enabled (either by system or by choice)
   - Add responsiveness 
   - Add 2-3 more content fillers 
+  - Link back to portfolio/github 
+
+- DS-Creations 
+  - Flikr API
+  - Simplify contents 
+  - Contact links 
+  - About 
+  - Link to Portfolio
+
+- BluePrints Needed
+  - Hangman
+  - Tinder Clone
+    - Book Lovers 
+    - Music/Movie similiarities 
+    - Reverse match
+    - Future You
+  - Ecommerce of some sort
+  - Financial Website
+    - Add Financial Calculator idea 
 
 
 
-
-Glitch
-- Number Guesser 
-- Try to click me 
-- Small memory game 
-- B Day facts 
-Hangman
-Make Up ecommerce 
-Cactus Theatre Co 
-
-Bigger Programs 
+My Misc 
+- Glitch
+  - Number Guesser 
+  - Try to click me 
+  - Small memory game 
+  - B Day facts 
+- Cactus Theatre Co 
 - Cactus Jump 
-- Time calculator
-- Inventory 
